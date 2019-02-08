@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/nokia/E1M
+LOCAL_PATH := device/nokia/e1m
 
 # Architecture
 TARGET_ARCH := arm

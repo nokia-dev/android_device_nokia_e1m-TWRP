@@ -1,6 +1,6 @@
-# Device Tree for Nokia 2 (E1M)
+# Device Tree for Nokia 2 (e1m)
 
-The Nokia 2 (codenamed _"E1M"_) is a low-end smartphone from Nokia.
+The Nokia 2 (codenamed _"e1m"_) is a low-end smartphone from Nokia.
 It was released in November 2017.
 
 | Basic                   | Spec Sheet                                       |
@@ -25,7 +25,7 @@ It was released in November 2017.
 ```
 # Compiling
 $ . build/envsetup.sh
-$ lunch omni_E1M-eng
+$ lunch omni_e1m-eng
 $ make -jx recoveryimage
 
 ```

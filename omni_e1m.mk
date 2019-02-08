@@ -15,7 +15,7 @@
 #
 
 # Release name
-PRODUCT_RELEASE_NAME := E1M
+PRODUCT_RELEASE_NAME := e1m
 
 # Inherit Build configuration for a very minimal build of the Open-Source part of the tree.
 $(call inherit-product, build/target/product/embedded.mk)
@@ -45,8 +45,8 @@ PRODUCT_COPY_FILES += \
 endif
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_NAME := omni_E1M
-PRODUCT_DEVICE := E1M
+PRODUCT_NAME := omni_e1m
+PRODUCT_DEVICE := e1m
 PRODUCT_BRAND := Nokia
 PRODUCT_MODEL := 2
 PRODUCT_MANUFACTURER := Nokia
